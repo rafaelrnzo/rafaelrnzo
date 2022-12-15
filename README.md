@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif"  />
+<img align="right" height="250" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif"  />
 
 ###
 
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
 </div>
 
 ###
