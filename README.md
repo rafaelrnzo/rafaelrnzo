@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="250" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/rafaellrnzo/?hl=id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
