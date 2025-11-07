@@ -4,11 +4,19 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 ###
 
 <p align="left">My name is Rafael and I'm a Software Engineer from Indonesia</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+- ✨ Creating bugs since 2021
+- 📚 I'm currently learning Project Management <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Golang
+- 🎯 Goals: Become a farmer and rancher in Switzerland
 
 ###
 
@@ -46,11 +54,15 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafaelrnzo/rafaelrnzo/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Find me!</h2>
 
 ###
 
