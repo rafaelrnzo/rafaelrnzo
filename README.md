@@ -16,7 +16,7 @@
 <h2 align="left">About me</h2>
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently learning Project Management <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Golang
+- 📚 I'm currently learning Project Management and Golang
 - 🎯 Goals: Become a farmer and rancher in Switzerland
 
 ###
